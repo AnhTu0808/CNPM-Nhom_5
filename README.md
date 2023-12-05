@@ -1,1 +1,1 @@
-# PhoneStoreManager-thien
+# PhoneStoreManager
